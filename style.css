@@ -1,0 +1,25 @@
+.page-header {
+    margin-left: 10px;
+}
+
+
+.keycl {
+    color: rgb(215, 155, 255);
+}
+
+#circle {
+    background: linear-gradient(to right, #ffffff,#6a5fbc);
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;    
+}
+
+#im {
+    letter-spacing: 5px;
+    color: black;
+    font-size: 40px;
+}
+
+#click {
+    line-height: 30px;
+}
